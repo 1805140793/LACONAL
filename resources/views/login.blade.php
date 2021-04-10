@@ -39,7 +39,7 @@
                 <input type="password" class="form-control" placeholder="Password" value="1234"  required="" />
               </div>
               <div>
-                <a class="btn btn-primary " href="/home">Ingresar</a>
+                <a class="btn btn-primary " href="../public/home">Ingresar</a>
                 <a class="reset_pass" href="/">¿Olvidaste tu contraseña?</a>
               </div>
 
@@ -75,7 +75,7 @@
                 <input type="password" class="form-control" placeholder="Password" required="" />
               </div>
               <div>
-                <a class="btn btn-primary " href="/">Registrar</a>
+                <a class="btn btn-primary " href="../public">Registrar</a>
               </div>
 
               <div class="clearfix"></div>

@@ -43,7 +43,7 @@
                     <table id="datatable" class="table table-striped table-bordered" style="width:100%">
                       <thead>
                         <tr>
-                          <th>Turno</th>
+                          <th>Pedido</th>
                           <th>Servicio</th>
                           <th>Costo</th>
                           <th>Comprobante</th>
@@ -55,7 +55,7 @@
                       <tbody>
                         <tr>
                           <td>00025</td>
-                          <td>Biometría Hemática,Gamma G.T. </td>
+                          <td>Análisis de Equipos</td>
                           <td>$230,750</td>
                           <td> 
                           <button class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm"><i class="fa fa-list-alt"></i> </button>
@@ -64,7 +64,7 @@
                         </tr>
                         <tr>
                           <td>00036</td>
-                          <td>Gamma G.T.</td>
+                          <td>Dulces y Mermeladas</td>
                           <td>$170,750</td>
                           <td>
                           <button class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm" ><i class="fa fa-list-alt"></i> </button>
@@ -73,18 +73,7 @@
                           </td>
                           
                         </tr>
-                        <tr>
-                          <td>00035</td>
-                          <td>Cariotipo (Estudio Cromosómico),Gamma G.T.</td>
-                          <td>$70,750</td>
-                          <td>
-
-                          <button class="btn btn-primary"  data-toggle="modal" data-target=".bs-example-modal-sm"><i class="fa fa-list-alt"></i> </button>
-
-
-                          </td>
-                         
-                        </tr>
+                       
                         <tr>
                           <td>00085</td>
                           <td>Coombs Indirecto</td>

@@ -43,7 +43,7 @@
                     <table id="datatable" class="table table-striped table-bordered" style="width:100%">
                       <thead>
                         <tr>
-                          <th>Turno</th>
+                          <th>Pedido</th>
                           <th>Servicio</th>
                           <th>Costo</th>
                           <th>Resultados</th>
@@ -55,7 +55,7 @@
                       <tbody>
                         <tr>
                           <td>00025</td>
-                          <td>Biometría Hemática,Gamma G.T. </td>
+                          <td>Análisis de Equipos</td>
                           <td>$230,750</td>
                           <td> 
                           <a class="btn btn-secondary source" href="#" onclick="window.open('{{ asset('Docs/resultado.pdf')}}', '_blank', 'fullscreen=yes'); return false;"><i class="fa fa-eye"></i></a>
@@ -65,7 +65,7 @@
                         </tr>
                         <tr>
                           <td>00036</td>
-                          <td>Gamma G.T.</td>
+                          <td>Dulces y Mermeladas</td>
                           <td>$170,750</td>
                           <td>
                          <a class="btn btn-secondary source" href="#" onclick="window.open('{{ asset('Docs/resultado.pdf')}}', '_blank', 'fullscreen=yes'); return false;"><i class="fa fa-eye"></i></a>
@@ -75,19 +75,7 @@
                           </td>
                           
                         </tr>
-                        <tr>
-                          <td>00035</td>
-                          <td>Cariotipo (Estudio Cromosómico),Gamma G.T.</td>
-                          <td>$70,750</td>
-                          <td>
-
-                          <a class="btn btn-secondary source" href="#" onclick="window.open('{{ asset('Docs/resultado.pdf')}}', '_blank', 'fullscreen=yes'); return false;"><i class="fa fa-eye"></i></a>
-
-
-
-                          </td>
-                         
-                        </tr>
+                       
                         <tr>
                           <td>00085</td>
                           <td>Coombs Indirecto</td>

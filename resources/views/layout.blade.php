@@ -55,7 +55,7 @@
               </div>
               <div class="profile_info">
                 <span>Bienvenido,</span>
-                <h2>John Doe</h2>
+                <h2>Juan Perez</h2>
               </div>
             </div>
             <!-- /menu profile quick info -->
@@ -67,19 +67,19 @@
               <div class="menu_section">
                 <h3>General</h3>
                 <ul class="nav side-menu">
-                  <li><a href="/home"><i class="fa fa-home"></i> Inicio</a>
+                  <li><a href="../public/home"><i class="fa fa-home"></i> Inicio</a>
                     
                   </li>
-                  <li><a href="/cotizacion"><i class="fa fa-indent"></i> Cotización</a>
+                  <li><a href="../public/cotizacion"><i class="fa fa-indent"></i> Monitoreo de Empresas</a>
                     
                     </li>
-                    <li><a href="/pedido"><i class="fa fa-file"></i> Pedidos</a>
+                    <li><a href="../public/pedido"><i class="fa fa-file"></i> Análisis de Alimentos</a>
                     
                     </li>
-                    <li><a href="/recepcion"><i class="fa fa-money"></i> Recepción Pago</a>
+                    <li><a href="../public/recepcion"><i class="fa fa-money"></i> Recepción Pago</a>
                     
                     </li>
-                    <li><a href="/resultados"><i class="fa fa-file-text"></i> Resultados Examénes</a>
+                    <li><a href="../public/resultados"><i class="fa fa-file-text"></i> Resultados Examénes</a>
                     
                     </li>
                
@@ -106,11 +106,11 @@
                 <ul class=" navbar-right">
                   <li class="nav-item dropdown open" style="padding-left: 15px;">
                     <a href="javascript:;" class="user-profile dropdown-toggle" aria-haspopup="true" id="navbarDropdown" data-toggle="dropdown" aria-expanded="false">
-                      <img src="{{ asset('custom/images/img.jpg') }}" alt="">John Doe
+                      <img src="{{ asset('custom/images/img.jpg') }}" alt="">Juan Perez
                     </a>
                     <div class="dropdown-menu dropdown-usermenu pull-right" aria-labelledby="navbarDropdown">
               
-                      <a class="dropdown-item"  href="/"><i class="fa fa-sign-out pull-right"></i>Cerrar Sesión</a>
+                      <a class="dropdown-item"  href="../public"><i class="fa fa-sign-out pull-right"></i>Cerrar Sesión</a>
                     </div>
                   </li>
   

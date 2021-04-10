@@ -23,8 +23,8 @@
 
 <div class="clearfix"></div>
 <div class="jumbotron">
-  <h1 class="display-4">Laboratorio</h1>
-  <p class="lead">Sistema de laboratorio.</p>
+  <h1 class="display-4">LACONAL</h1>
+  <p class="lead">Laboratorio de Control y Análisis de Alimentos</p>
   <hr class="my-4">
   
 </div>
